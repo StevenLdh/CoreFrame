@@ -3409,11 +3409,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projectspace\\Coldairarrow\\src\\Coldairarrow.Entity\\03.Coldairarrow.Entity.csproj",
+      "projectUniqueName": "D:\\projectspace\\CoreFrame\\Coldairarrow.Entity\\03.Coldairarrow.Entity.csproj",
       "projectName": "Coldairarrow.Entity",
-      "projectPath": "D:\\projectspace\\Coldairarrow\\src\\Coldairarrow.Entity\\03.Coldairarrow.Entity.csproj",
+      "projectPath": "D:\\projectspace\\CoreFrame\\Coldairarrow.Entity\\03.Coldairarrow.Entity.csproj",
       "packagesPath": "C:\\Users\\cqx\\.nuget\\packages\\",
-      "outputPath": "D:\\projectspace\\Coldairarrow\\src\\Coldairarrow.Entity\\obj\\",
+      "outputPath": "D:\\projectspace\\CoreFrame\\Coldairarrow.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

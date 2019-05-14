@@ -12,3 +12,17 @@ D:\projectspace\Coldairarrow\src\Coldairarrow.Util\obj\Debug\netstandard2.0\01.C
 D:\projectspace\Coldairarrow\src\Coldairarrow.Util\obj\Debug\netstandard2.0\01.Coldairarrow.Util.csproj.CopyComplete
 D:\projectspace\Coldairarrow\src\Coldairarrow.Util\obj\Debug\netstandard2.0\Coldairarrow.Util.dll
 D:\projectspace\Coldairarrow\src\Coldairarrow.Util\obj\Debug\netstandard2.0\Coldairarrow.Util.pdb
+D:\projectspace\CoreFrame\Coldairarrow.Util\bin\Debug\netstandard2.0\Coldairarrow.Util.deps.json
+D:\projectspace\CoreFrame\Coldairarrow.Util\bin\Debug\netstandard2.0\Coldairarrow.Util.dll
+D:\projectspace\CoreFrame\Coldairarrow.Util\bin\Debug\netstandard2.0\Coldairarrow.Util.pdb
+D:\projectspace\CoreFrame\Coldairarrow.Util\bin\Debug\netstandard2.0\Aspose.Cells.dll
+D:\projectspace\CoreFrame\Coldairarrow.Util\bin\Debug\netstandard2.0\LinqKit.dll
+D:\projectspace\CoreFrame\Coldairarrow.Util\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Core.dll
+D:\projectspace\CoreFrame\Coldairarrow.Util\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Core.xml
+D:\projectspace\CoreFrame\Coldairarrow.Util\obj\Debug\netstandard2.0\01.Coldairarrow.Util.csprojResolveAssemblyReference.cache
+D:\projectspace\CoreFrame\Coldairarrow.Util\obj\Debug\netstandard2.0\01.Coldairarrow.Util.csproj.CoreCompileInputs.cache
+D:\projectspace\CoreFrame\Coldairarrow.Util\obj\Debug\netstandard2.0\01.Coldairarrow.Util.AssemblyInfoInputs.cache
+D:\projectspace\CoreFrame\Coldairarrow.Util\obj\Debug\netstandard2.0\01.Coldairarrow.Util.AssemblyInfo.cs
+D:\projectspace\CoreFrame\Coldairarrow.Util\obj\Debug\netstandard2.0\01.Coldairarrow.Util.csproj.CopyComplete
+D:\projectspace\CoreFrame\Coldairarrow.Util\obj\Debug\netstandard2.0\Coldairarrow.Util.dll
+D:\projectspace\CoreFrame\Coldairarrow.Util\obj\Debug\netstandard2.0\Coldairarrow.Util.pdb
