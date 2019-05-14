@@ -1,5 +1,10 @@
-##igtignore this file##
-/.vs/
+*.vs
+/.vscode
+*.project
+bin
+obj
+*.project
+*.idea
 /Coldairarrow.Business/bin/
 /Coldairarrow.Business/obj/
 /Coldairarrow.Console/bin/
@@ -14,4 +19,3 @@
 /Coldairarrow.Util/obj/
 /Coldairarrow.Web/bin/
 /Coldairarrow.Web/obj/
-/.idea/
