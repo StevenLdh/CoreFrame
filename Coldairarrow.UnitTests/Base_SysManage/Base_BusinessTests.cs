@@ -1,4 +1,5 @@
 ﻿using Coldairarrow.Business;
+using Coldairarrow.Business.Common;
 using Coldairarrow.DataRepository;
 using Coldairarrow.Entity.Base_SysManage;
 using Coldairarrow.Util;
@@ -384,6 +385,12 @@ namespace Coldairarrow.UnitTests
             Assert.AreEqual(succcess, true);
             Assert.AreEqual(count1, 3);
             Assert.AreEqual(count2, 2);
+        }
+
+        [TestMethod]
+        public void LogTest() {
+            LogHelper.WriteLog_LocalTxt("测试日志");
+            BusHelper.WriteSysLog("测试日志", EnumType.LogType.系统异常);
         }
 
         #endregion
